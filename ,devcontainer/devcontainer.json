@@ -1,0 +1,17 @@
+
+{
+	"name": "Development",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:latest",
+	"features": {},
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"Vue.volar",
+				"eamodio.gitlens",
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode"
+			]
+		}
+	}
+}
